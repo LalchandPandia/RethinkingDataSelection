@@ -1,0 +1,6 @@
+
+# datasets and large intermediate outputs are not distributed
+full_data/
+results/scores/
+results/full_data/
+open-instruct/results_*/
